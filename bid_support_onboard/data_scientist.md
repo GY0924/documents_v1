@@ -50,7 +50,7 @@
 Yes, I am a US citizen
 
 **Do you need any sponsorships  in the future to work in US**\
-Yes, I am a US citizen
+No, I am a US citizen
 
 **Have you ever been employed by *XXX* before?**\
 No
