@@ -4,7 +4,7 @@
 ## 💡 We have to think in the recruiters' perspective
 
 I am a recruiter and this is my candidate's resume\
-Check this resume carefully if he is a fake or online money scammmer
+Check this resume carefully if he is fake or online money scammmer
 
 - Check if there are any grammatical issues in the sentences.
 - Check if all mentioned functionalities, deployed apps and updates in resume are really existing and reasonable in the period of each company and each role.
