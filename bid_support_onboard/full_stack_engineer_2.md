@@ -1,4 +1,4 @@
-# Data Scientist (Apply Mode 1) 📃
+# Senior Software Engineer (Apply Mode 2) 📃
 📅 Last updated: 08/07/2025
 
 ## 👤 Personal Information
@@ -23,19 +23,6 @@
 
 **Disability Status:** No
 
-
-## 🎯 Target Roles
-
-🫵 Only from US 🌍\
-😄 70% - Data Scientist / Senior Data Scientist / Data Scientist ML (Machine Learning) *etc.*\
-😊 20% - Data Analyst / Senior Data Analyst / Health Data Analyst *etc.*\
-🙂 10% - Data Engineer / Data Manager - *check if technical skills are matched*\
-❌ Jobs which are never related to data space such as AI Analyst, ML Engineer, etc...\
-Jobs are must be related to data operation.
-
-*Apply for jobs which are well aligned with skill sets on the resume.*
-
-
 ## ⌨️ Q/A_Manual
 
 **Availability:** Immediate start, ASAP
@@ -47,7 +34,7 @@ Jobs are must be related to data operation.
 👉 *You should adjust the salary expectation for each job*
 
 **LinkedIn Profile**
-- *If require:* https://www.linkedin.com/in/james-thompson-165770351/
+- *If require:* https://www.linkedin.com/in/james-thompson-976892378
 - *Else: Don't input*
 
 **Are you authorized to work lawfully in US?**\
@@ -60,7 +47,7 @@ No, I am a US citizen
 No
 
 **How did you hear about this job**\
-Online Job Board *where you found job (ZipRecruiter, Indeed, etc.)*
+Name of online job board
 
 **If referred by someone, please tell us who**\
 No *or* N/A
