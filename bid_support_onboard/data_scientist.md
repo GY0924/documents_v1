@@ -15,7 +15,7 @@
 
 **Work Authorization:** US citizen
 
-**Phone Number:** +1 (404) 913-0753
+**Phone Number (As only Cell Phone):** +1 (404) 913-0753
 
 **Ethnicity:** Prefer to not say | *Select White if require*
 
@@ -26,6 +26,7 @@
 
 ## 🎯 Target Roles
 
+🫵 Only from US 🌍\
 😄 70% - Data Scientist / Senior Data Scientist / Data Scientist ML (Machine Learning) *etc.*\
 😊 20% - Data Analyst / Senior Data Analyst / Health Data Analyst *etc.*\
 🙂 10% - Data Engineer / Data Manager - *check if technical skills are matched*\
