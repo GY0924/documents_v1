@@ -15,7 +15,7 @@
 
 **Work Authorization:** US citizen
 
-**Phone Number:** +1 (323) 207-8617
+**Phone Number:** +1 (404) 913-0753
 
 **Ethnicity:** Prefer to not say | *Select White if require*
 
@@ -28,7 +28,9 @@
 
 😄 70% - Data Scientist / Senior Data Scientist / Data Scientist ML (Machine Learning) *etc.*\
 😊 20% - Data Analyst / Senior Data Analyst / Health Data Analyst *etc.*\
-🙂 10% - Data Engineer / Data Manager - *check if technical skills are matched*
+🙂 10% - Data Engineer / Data Manager - *check if technical skills are matched*\
+❌ Jobs which are never related to data space such as AI Analyst, ML Engineer, etc...\
+Jobs are must be related to data operation.
 
 *Apply for jobs which are well aligned with skill sets on the resume.*
 
