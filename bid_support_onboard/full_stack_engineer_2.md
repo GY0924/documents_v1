@@ -1,5 +1,4 @@
 # Senior Software Engineer (Apply Mode 2) 📃
-📅 Last updated: 08/07/2025
 
 ## 👤 Personal Information
 
@@ -23,14 +22,27 @@
 
 **Disability Status:** No
 
+## 📰 Resumes
+
+1. **React Focused** Front End
+
+2. **React +** Node + Java
+
+3. **React +** Python
+
+4. **React +** C# .NET
+
+All job applications must be done with appropriate resumes for each job.\
+Manual job application is recommended, not using autofill tools.
+
 ## ⌨️ Q/A_Manual
 
 **Availability:** Immediate start, ASAP
 
 **Salary Expectation**\
-*Hourly* $60 ~ $70 | 
+*Hourly* $60 ~ $80 | 
 *Monthly* $10,000 ~ $12,000 | 
-*Annually* $130,000 ~ $140,000\
+*Annually* $140,000 ~ $150,000\
 👉 *You should adjust the salary expectation for each job*
 
 **LinkedIn Profile**
@@ -47,7 +59,7 @@ No, I am a US citizen
 No
 
 **How did you hear about this job**\
-Name of online job board
+Name of online job board - *provided by client's side*
 
 **If referred by someone, please tell us who**\
 No *or* N/A
@@ -64,11 +76,7 @@ No
 - Tell us a little bit more about your biggest challenge.\
 *...*
 
-## 🙅‍♂️ Never
-- *Focus on jobs within 24 hours everyday, Don't apply for old jobs.*
-- *Never apply for repeated positions in same company.*
-
 ## 💭 Others
-- *You can use autofilling tools like Simplify Jobs.*
+- *You can use autofilling tools like Simplify Jobs but bid supporter must be careful with different kinds of resumes.*
 - *Avoid Cover Letter Unless it is mandatory.*
 - *Don't hesitate to ask any questions you may have.*
