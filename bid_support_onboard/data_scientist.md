@@ -1,5 +1,4 @@
-# Data Scientist (Apply Mode 1) 📃
-📅 Last updated: 08/07/2025
+# Data Scientist (Apply Mode 3) 📃
 
 ## 👤 Personal Information
 
@@ -34,6 +33,8 @@
 Jobs are must be related to data operation.
 
 *Apply for jobs which are well aligned with skill sets on the resume.*
+
+💡 *Additional jobs will be provided on the client's side from LinkedIn*
 
 
 ## ⌨️ Q/A_Manual
