@@ -28,13 +28,10 @@
 ## 🎯 Target Roles
 
 🫵 Only from US 🌍\
-😄 70% - Data Scientist / Senior Data Scientist / Data Scientist ML (Machine Learning) *etc.*\
-😊 20% - Data Analyst / Senior Data Analyst / Health Data Analyst *etc.*\
-🙂 10% - Data Engineer / Data Manager - *check if technical skills are matched*\
-❌ Jobs which are never related to data space such as AI Analyst, ML Engineer, etc...\
-Jobs are must be related to data operation.
-
-*Apply for jobs which are well aligned with skill sets on the resume.*
+😄 60% - Senior Software Engineer / Senior Full Stack Engineer / Senior Full Stack Developer *etc.*\
+😊 30% - Senior Front End Engineer / Senior Front End Developer *etc.*\
+🙂 10% - Senior Back End Engineer / Senior Back End Developer - *check if technical skills are matched*\
+❌ Jobs which are never related to full stack or front end web development
 
 ## 📰 Resumes
 
@@ -90,7 +87,11 @@ No
 - Tell us a little bit more about your biggest challenge.\
 *...*
 
+## 🙅‍♂️ Never
+- Focus on jobs within 24 hours everyday, Don't apply for old jobs.
+- Never apply for repeated positions in same company.
+
 ## 💭 Others
-- *You can use autofilling tools like Simplify Jobs but bid supporter must be careful with different kinds of resumes.*
-- *Avoid Cover Letter Unless it is mandatory.*
-- *Don't hesitate to ask any questions you may have.*
+- You can use autofilling tools like Simplify Jobs but bid supporter must be careful with different kinds of resumes.
+- Avoid Cover Letter Unless it is mandatory.
+- Don't hesitate to ask any questions you may have.
