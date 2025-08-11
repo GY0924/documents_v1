@@ -15,6 +15,8 @@
 
 **Work Authorization:** US citizen
 
+**Last 4-digits in SSN:** XXX-XX-9543
+
 **Phone Number (As only Cell Phone):** +1 (214) 702-9542
 
 **Ethnicity:** Prefer to not say | *Select White if require*
