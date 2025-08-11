@@ -1,4 +1,5 @@
-# Senior Software Engineer (Apply Mode 2) 📃
+# Senior Software Engineer 📃
+📅 Last updated: 08/10/2025
 
 ## 👤 Personal Information
 
@@ -8,11 +9,13 @@
 
 **Address:** 2804 Treble Ln Unit 923
 
-**City and State:** Austin, TX (Texas)
+**City, State, and ZipCode:** Austin, TX 78704 (Texas)
 
 **Country:** USA (United States of America)
 
 **Work Authorization:** US citizen
+
+**Last 4-digits in SSN:** XXX-XX-9543
 
 **Phone Number (As only Cell Phone):** +1 (404) 913-0753
 
@@ -21,6 +24,17 @@
 **Veteran Status:** Prefer to not say | *Select No if require*
 
 **Disability Status:** No
+
+## 🎯 Target Roles
+
+🫵 Only from US 🌍\
+😄 70% - Data Scientist / Senior Data Scientist / Data Scientist ML (Machine Learning) *etc.*\
+😊 20% - Data Analyst / Senior Data Analyst / Health Data Analyst *etc.*\
+🙂 10% - Data Engineer / Data Manager - *check if technical skills are matched*\
+❌ Jobs which are never related to data space such as AI Analyst, ML Engineer, etc...\
+Jobs are must be related to data operation.
+
+*Apply for jobs which are well aligned with skill sets on the resume.*
 
 ## 📰 Resumes
 
@@ -32,7 +46,7 @@
 
 4. **React +** C# .NET
 
-All job applications must be done with appropriate resumes for each job.\
+All job applications must be done with appropriate resume for each job.\
 Manual job application is recommended, not using autofill tools.
 
 ## ⌨️ Q/A_Manual
