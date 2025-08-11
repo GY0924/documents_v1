@@ -1,4 +1,5 @@
-# Data Scientist (Apply Mode 3) 📃
+# Data Scientist 📃
+📅 Last updated: 08/06/2025
 
 ## 👤 Personal Information
 
@@ -8,13 +9,13 @@
 
 **Address:** 2804 Treble Ln Unit 923
 
-**City and State:** Austin, TX (Texas)
+**City, State, and ZipCode:** Austin, TX 78704 (Texas)
 
 **Country:** USA (United States of America)
 
 **Work Authorization:** US citizen
 
-**Phone Number (As only Cell Phone):** +1 (404) 913-0753
+**Phone Number (As only Cell Phone):** +1 (214) 702-9542
 
 **Ethnicity:** Prefer to not say | *Select White if require*
 
@@ -34,8 +35,6 @@ Jobs are must be related to data operation.
 
 *Apply for jobs which are well aligned with skill sets on the resume.*
 
-💡 *Additional jobs will be provided on the client's side from LinkedIn*
-
 
 ## ⌨️ Q/A_Manual
 
@@ -47,9 +46,8 @@ Jobs are must be related to data operation.
 *Annually* $130,000 ~ $140,000\
 👉 *You should adjust the salary expectation for each job*
 
-**LinkedIn Profile**
-- *If require:* https://www.linkedin.com/in/james-thompson-165770351/
-- *Else: Don't input*
+**LinkedIn Profile**\
+https://www.linkedin.com/in/jamesthompsonlikesdata/
 
 **Are you authorized to work lawfully in US?**\
 Yes, I am a US citizen
@@ -79,10 +77,10 @@ No
 *...*
 
 ## 🙅‍♂️ Never
-- *Focus on jobs within 24 hours everyday, Don't apply for old jobs.*
-- *Never apply for repeated positions in same company.*
+- Focus on jobs within 24 hours everyday, Don't apply for old jobs.
+- Never apply for repeated positions in same company.
 
 ## 💭 Others
-- *You can use autofilling tools like Simplify Jobs.*
-- *Avoid Cover Letter Unless it is mandatory.*
-- *Don't hesitate to ask any questions you may have.*
+- You can use autofilling tools like Simplify Jobs.
+- Avoid Cover Letter Unless it is mandatory.
+- Don't hesitate to ask any questions you may have.
