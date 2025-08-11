@@ -1,5 +1,5 @@
 # Data Scientist 📃
-📅 Last updated: 08/06/2025
+📅 Last updated: 08/10/2025
 
 ## 👤 Personal Information
 
