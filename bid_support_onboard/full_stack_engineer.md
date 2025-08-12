@@ -60,6 +60,9 @@ Manual job application is recommended, not using autofill tools.
 - *If require:* https://www.linkedin.com/in/james-thompson-976892378
 - *Else: Don't input*
 
+**GitHub URL**
+- https://www.github.com/RB74
+
 **Are you authorized to work lawfully in US?**\
 Yes, I am a US citizen
 
