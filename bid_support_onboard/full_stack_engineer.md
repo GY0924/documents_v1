@@ -60,6 +60,9 @@ Manual job application is recommended, not using autofill tools.
 - *If require:* https://www.linkedin.com/in/james-thompson-976892378
 - *Else: Don't input*
 
+**Portfolio URL**
+- https://james-francis-thompson.jimdosite.com/
+
 **GitHub URL**
 - https://www.github.com/RB74
 
