@@ -3,7 +3,7 @@
 
 ##  📰 Full Stack Software Engineer Resume
 
-💡 *Underlined texts can be changed*
+💡 *Italic texts can be changed*
 
 **Write professional and sharp resume bullet points based on the following rules and sequence:**
 
