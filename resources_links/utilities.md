@@ -24,6 +24,10 @@ Task Management
 
 https://tasksboard.com/app
 
+Federal Income Tax Calculator
+
+https://smartasset.com/taxes/income-taxes#N6ZSR5r1Vu
+
 ---
 
 # Chrome Extension
