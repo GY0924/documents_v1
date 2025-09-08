@@ -24,6 +24,8 @@ Task Management
 
 https://tasksboard.com/app
 
+---
+
 # Chrome Extension
 
 To save tab URLs to google sheets
