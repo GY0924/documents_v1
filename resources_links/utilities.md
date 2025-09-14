@@ -28,6 +28,10 @@ Federal Income Tax Calculator
 
 https://smartasset.com/taxes/income-taxes#N6ZSR5r1Vu
 
+Software Industry Loadmap
+
+https://roadmap.sh/
+
 ---
 
 # Chrome Extension
