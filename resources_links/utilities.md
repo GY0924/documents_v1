@@ -28,7 +28,7 @@ Federal Income Tax Calculator
 
 https://smartasset.com/taxes/income-taxes#N6ZSR5r1Vu
 
-Software Industry Loadmap
+Software Developer Loadmap
 
 https://roadmap.sh/
 
