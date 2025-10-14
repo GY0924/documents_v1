@@ -1,4 +1,4 @@
-# Useful Articles
+# Useful Blogs
 
 ## Job Interviews
 
@@ -70,3 +70,7 @@ https://javascript.plainenglish.io/the-future-of-react-native-trends-predictions
 **RPA use cases in healthcare - 2025**
 
 https://automationedge.com/home-health-care-automation/blogs/rpa-use-cases-in-healthcare/
+
+**Java Full Stack Developer Roadmap - 2025**
+
+https://www.datacamp.com/blog/java-full-stack-developer-roadmap
