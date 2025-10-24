@@ -11,3 +11,5 @@
 * Builtin
 
 ## LinkedIn Profile
+
+*Change public URL of the profile*
