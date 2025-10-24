@@ -1,8 +1,4 @@
 # Core Competencies
-| Header 1 | Header 2 |
-|---|---|
-| `copiable text A` | Regular text |
-| Another `code snippet` | More text |
  
 ## Full Stack Engineer
 | [ Technical Side ] | [ Non-Technical Side ] |
