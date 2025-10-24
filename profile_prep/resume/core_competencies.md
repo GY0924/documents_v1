@@ -4,7 +4,7 @@
 ## Full Stack Engineer
 | [ Technical Side ] | [ Non-Technical Side ] |
 |---|---|
-| `Full Stack Web Application Development` | `Communication and Team Collaboration` |
+| ```Full Stack Web Application Development``` | `Communication and Team Collaboration` |
 | `Frontend Engineering & UX/UI Design` | `Project and Time Management` |
 | `Backend Engineering & Infrastructure` | `Mentorship and Code Reviews` |
 | `Desktop Application Development` | `Business Requirement Analysis` |
