@@ -1,5 +1,6 @@
 # Core Competencies
-
+> Testing
+ 
 ## Full Stack Engineer
 | [ Technical Side ] | [ Non-Technical Side ] |
 |---|---|
