@@ -11,7 +11,7 @@
 | `Cloud-native Microservices Development` | `Adaptability and Self-learning` |
 | `AI-Driven Software Solutions` | `Startup Work Experience` |
 | `SaaS Platform Development` | `Agile Scrum Methodology` |
-| `Troubleshooting and Debugging` | `` |
+| `Troubleshooting and Debugging` | `Problem-solving & Self-motivation` |
 | `` | `` |
 | `` | `` |
 | `` | `` |
