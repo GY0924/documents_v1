@@ -7,7 +7,7 @@
 | `Frontend Engineering & UX/UI Design` | `Project Management & Time Management` |
 | `Backend Engineering & Cloud Infrastructure` | `Mentorship & Code Reviews` |
 | `Desktop Application Development` | `Business Requirements Analysis & Solution Design` |
-| `Database Design & System Architecture` | `Deployment and Product Support` |
+| `Database Design & System Architecture` | `Deployment & Product Support` |
 | `Cloud-native Microservices Development` | `Adaptability & Continuous Learning` |
 | `AI/ML-Driven Software Solutions` | `Experience in Startup Environments` |
 | `SaaS Platform Development` | `Agile Scrum Methodology` |
