@@ -15,3 +15,6 @@ Full Stack Engineer, Data Engineer/Scientist/Analyst, RPA Engineer, etc ...
 [ Content ]
 * Write basic resume contents using prepared `AI prompt`.
 * Organize `keywords` and sentences according to tech stack and current trends.
+
+## 2 - Core Competencies
+*Reference core_competencies.md file.*
