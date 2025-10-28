@@ -6,5 +6,5 @@
 2. Make a Resume\
 *Todo Here*
 
-3. Social Media
-* Create a LinkedIn Profile.
+3. Social Media\
+Create a LinkedIn Profile.
